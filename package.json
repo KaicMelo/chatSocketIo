@@ -1,0 +1,16 @@
+{
+  "name": "socket-chat",
+  "version": "1.0.0",
+  "description": "Criação de chat de acordo com a documentação socket.io para praticar os conhecimentos e desenvolver utilizando a arquitetura e organização da pastas da própria documentação",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kaic Melo Santos",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "nodemon": "^2.0.4",
+    "socket.io": "^2.3.0"
+  }
+}
